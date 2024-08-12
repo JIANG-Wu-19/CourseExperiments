@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}实验目的}{3}{section.1}%
+\contentsline {section}{\numberline {2}实验内容}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}用DDL（数据定义语句中的Create database）创建一个新数据库FlightDB，数据库文件的设置都可以使用默认值}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}用DDL（数据定义语句中的Create Table）创建三张表}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}航班表（hbb）}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}乘客表（Ckb）}{3}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}售票表（spb）}{4}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}用DML（数据操作语句中的Insert）插入数据}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}对数据库进行一次完整备份，备份名为BackupFull}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}用DML（数据操纵语句中的Insert）在乘客表和售票表中插入如下数据}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}对数据库进行一次差异备份，备份名为BackupAdd1}{5}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}用DML（数据操纵语句中的Update）将所有目的地是北京的航班的原价提高10\%}{5}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}用DML（数据操纵语句中的Delete）将“张飞”乘客删除，注意同时删除售票记录和乘客基本信息}{5}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}尝试使用MS SQL Server的还原功能，还原到上一次差异备份的BackupAdd1处}{5}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}在SQL Server中创建一个用户FlightUser，设置FlightUser用户对三张表都有查询权，但是该用户不能对乘客表和航班表进行增加、删除和修改记录，该用户对售票表能增加、删除和修改记录。然后用FlightUser登陆SQL Server，对如上权限设置进行验证}{5}{subsection.2.10}%
+\contentsline {section}{\numberline {3}实验步骤及结果}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}DDL创建数据库}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}DDL创建表}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}航班表（hbb）}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}乘客表（Ckb）}{7}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}售票表（spb）}{7}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}DML插入hbb数据}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}完整备份}{10}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}DML插入Ckb和spb数据}{11}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}差异备份}{12}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}DML更新hbb数据}{13}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}DML删除Ckb数据}{14}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}还原数据库}{15}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}创建用户}{15}{subsection.3.10}%
+\contentsline {section}{\numberline {4}实验总结}{17}{section.4}%
