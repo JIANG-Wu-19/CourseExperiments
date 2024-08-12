@@ -1,0 +1,281 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:18:1-179:12
+INJECTED from E:\notes\app\src\main\AndroidManifest.xml:18:1-179:12
+INJECTED from E:\notes\app\src\main\AndroidManifest.xml:18:1-179:12
+INJECTED from E:\notes\app\src\main\AndroidManifest.xml:18:1-179:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\a2c54b51ee15973f28cc82b4115a7f2b\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\d791c5ac6e5d3afa624a16f7ccf07ffc\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\ab8011a27afed3f80e866d362a37e749\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\e4c169053af9b2ea455d8a23c78157df\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:20:5-31
+		INJECTED from E:\notes\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from E:\notes\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from E:\notes\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:24:5-44
+INJECTED from E:\notes\app\src\main\AndroidManifest.xml:24:5-44
+INJECTED from E:\notes\app\src\main\AndroidManifest.xml:24:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\a2c54b51ee15973f28cc82b4115a7f2b\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\a2c54b51ee15973f28cc82b4115a7f2b\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\d791c5ac6e5d3afa624a16f7ccf07ffc\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\d791c5ac6e5d3afa624a16f7ccf07ffc\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\ab8011a27afed3f80e866d362a37e749\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\ab8011a27afed3f80e866d362a37e749\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\e4c169053af9b2ea455d8a23c78157df\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\e4c169053af9b2ea455d8a23c78157df\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from E:\notes\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:24:15-41
+		INJECTED from E:\notes\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:27:22-78
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:28:5-88
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:28:22-85
+uses-permission#android.permission.INTERNET
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:30:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:31:22-69
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:32:5-74
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:32:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:33:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:34:5-71
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:34:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:36:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:38:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:40:5-79
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:40:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:42:5-76
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:42:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:44:5-78
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:44:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:46:5-74
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:46:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:52:5-79
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:52:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:54:5-55:47
+	tools:ignore
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:55:9-44
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:54:22-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:58:5-78
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:58:22-76
+application
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:64:5-178:19
+INJECTED from E:\notes\app\src\main\AndroidManifest.xml:64:5-178:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\a2c54b51ee15973f28cc82b4115a7f2b\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\a2c54b51ee15973f28cc82b4115a7f2b\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\ab8011a27afed3f80e866d362a37e749\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\ab8011a27afed3f80e866d362a37e749\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from E:\notes\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\a2c54b51ee15973f28cc82b4115a7f2b\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:66:9-41
+	android:icon
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:65:9-42
+activity#net.micode.notes.ui.NotesListActivity
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:67:9-80:20
+	android:label
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:70:13-45
+	android:launchMode
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:71:13-43
+	android:windowSoftInputMode
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:74:13-52
+	android:uiOptions
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:73:13-57
+	android:configChanges
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:69:13-74
+	android:theme
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:68:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:76:13-79:29
+action#android.intent.action.MAIN
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:77:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:78:17-77
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:78:27-74
+activity#net.micode.notes.ui.NoteEditActivity
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:82:9-110:20
+	android:launchMode
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:85:13-43
+	android:configChanges
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:84:13-74
+	android:theme
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:86:13-45
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:83:13-48
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/call_note+data:mimeType:vnd.android.cursor.item/text_note
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:88:13-93:29
+action#android.intent.action.VIEW
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:89:17-69
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:89:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:90:17-76
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:90:27-73
+data
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:91:17-78
+	android:mimeType
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:91:23-75
+intent-filter#action:name:android.intent.action.INSERT_OR_EDIT+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/call_note+data:mimeType:vnd.android.cursor.item/text_note
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:95:13-100:29
+action#android.intent.action.INSERT_OR_EDIT
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:96:25-76
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:102:13-105:29
+action#android.intent.action.SEARCH
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:103:17-71
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:103:25-68
+meta-data#android.app.searchable
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:107:13-109:54
+	android:resource
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:109:17-51
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:108:17-54
+provider#net.micode.notes.data.NotesProvider
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:112:9-115:43
+	android:authorities
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:114:13-47
+	android:multiprocess
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:115:13-40
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:113:13-63
+receiver#net.micode.notes.widget.NoteWidgetProvider_2x
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:117:9-129:20
+	android:label
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:119:13-50
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:118:13-57
+intent-filter#action:name:android.appwidget.action.APPWIDGET_DELETED+action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:android.intent.action.PRIVACY_MODE_CHANGED
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:120:13-124:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:121:17-84
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:121:25-81
+action#android.appwidget.action.APPWIDGET_DELETED
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:122:17-85
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:122:25-82
+action#android.intent.action.PRIVACY_MODE_CHANGED
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:123:17-85
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:123:25-82
+meta-data#android.appwidget.provider
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:126:13-128:58
+	android:resource
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:128:17-55
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:127:17-58
+receiver#net.micode.notes.widget.NoteWidgetProvider_4x
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:130:9-143:20
+	android:label
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:132:13-50
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:131:13-57
+receiver#net.micode.notes.ui.AlarmInitReceiver
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:145:9-149:20
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:145:19-55
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:146:13-148:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:147:17-79
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:147:25-76
+receiver#net.micode.notes.ui.AlarmReceiver
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:151:9-154:20
+	android:process
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:153:13-38
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:152:13-61
+activity#net.micode.notes.ui.AlarmAlertActivity
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:156:9-161:20
+	android:label
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:158:13-45
+	android:launchMode
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:159:13-48
+	android:theme
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:160:13-75
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:157:13-50
+activity#net.micode.notes.ui.NotesPreferenceActivity
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:163:9-168:20
+	android:label
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:165:13-54
+	android:launchMode
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:166:13-43
+	android:theme
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:167:13-60
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:164:13-71
+service#net.micode.notes.gtask.remote.GTaskSyncService
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:170:9-173:19
+	android:exported
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:172:13-37
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:171:13-74
+meta-data#android.app.default_searchable
+ADDED from E:\notes\app\src\main\AndroidManifest.xml:175:9-177:52
+	android:value
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:177:13-49
+	android:name
+		ADDED from E:\notes\app\src\main\AndroidManifest.xml:176:13-58

@@ -1,0 +1,9 @@
+net.micode.notes.app-core-1.6.0-0 C:\Users\HP\.gradle\caches\transforms-3\a2c54b51ee15973f28cc82b4115a7f2b\transformed\core-1.6.0\res
+net.micode.notes.app-jetified-annotation-experimental-1.1.0-1 C:\Users\HP\.gradle\caches\transforms-3\e4c169053af9b2ea455d8a23c78157df\transformed\jetified-annotation-experimental-1.1.0\res
+net.micode.notes.app-pngs-2 E:\notes\app\build\generated\res\pngs\debug
+net.micode.notes.app-resValues-3 E:\notes\app\build\generated\res\resValues\debug
+net.micode.notes.app-packageDebugResources-4 E:\notes\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+net.micode.notes.app-packageDebugResources-5 E:\notes\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+net.micode.notes.app-merged_res-6 E:\notes\app\build\intermediates\merged_res\debug
+net.micode.notes.app-debug-7 E:\notes\app\src\debug\res
+net.micode.notes.app-main-8 E:\notes\app\src\main\res
